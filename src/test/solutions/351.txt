@@ -1,0 +1,3 @@
+Program([
+	VarDecl(dope, FloatType, BinExpr(+, FloatLit(0.00012), BinExpr(*, IntegerLit(6), IntegerLit(7))))
+])

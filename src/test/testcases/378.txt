@@ -1,0 +1,4 @@
+func: function void() {
+                for (idx[1]=2_1,7==(4>5),--i)
+                    arr[idx[i]] = arr[idx[i]]::"jdk";
+                }

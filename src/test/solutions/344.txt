@@ -1,0 +1,3 @@
+Program([
+	VarDecl(x, StringType, BinExpr(+, Id(x), FuncCall(Y, [BinExpr(::, IntegerLit(3), IntegerLit(4))])))
+])

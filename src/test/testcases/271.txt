@@ -1,0 +1,1 @@
+ x_t: array [1,2,3,4,5] of integer = 4.eE7 

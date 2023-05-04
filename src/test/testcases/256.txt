@@ -1,0 +1,1 @@
+name: string = "duc"::chau[5,1_7];

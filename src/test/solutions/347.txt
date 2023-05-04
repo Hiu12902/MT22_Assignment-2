@@ -1,0 +1,4 @@
+Program([
+	VarDecl(name, ArrayType([2], FloatType), BinExpr(<, BooleanLit(True), BinExpr(>, BooleanLit(False), IntegerLit(5))))
+	VarDecl(_5_d, ArrayType([2], FloatType), IntegerLit(56))
+])

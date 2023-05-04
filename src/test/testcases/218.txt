@@ -1,0 +1,2 @@
+ delta: string /*abcdef*/ = 2 // 3456 // 
+ xyz: string = "a\n" 

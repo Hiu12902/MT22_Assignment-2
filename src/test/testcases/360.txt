@@ -1,0 +1,5 @@
+germany: function string(out str: string){
+                while(heyo::str)
+                    do {}
+                    while(heyo-.e45);
+                }

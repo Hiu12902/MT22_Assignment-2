@@ -1,0 +1,4 @@
+Program([
+	VarDecl(count, BooleanType, FuncCall(count, []))
+	VarDecl(_12_5, BooleanType, BinExpr(&&, BooleanLit(True), BooleanLit(False)))
+])

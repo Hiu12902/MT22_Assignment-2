@@ -1,0 +1,1 @@
+ x: array [a, b, +, {] of integer == 3; 

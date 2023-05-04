@@ -1,0 +1,12 @@
+fact: function integer (n: integer) {
+                    for (i = 1, i + arr(boon(7)), i == 2) {
+                        while(true) {
+                            break;
+                            else
+                            {
+                                foo([2,3, (3,2), (e, x), ("+", "==")]);
+                            }
+                        }
+                    }
+                }
+            

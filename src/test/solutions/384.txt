@@ -1,0 +1,3 @@
+Program([
+	VarDecl(x, FloatType, BinExpr(+, BinExpr(-, UnExpr(-, FuncCall(foo, [BinExpr(+, BinExpr(%, Id(a), Id(b)), Id(c))])), FloatLit(0.00789)), IntegerLit(7)))
+])

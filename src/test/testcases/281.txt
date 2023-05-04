@@ -1,0 +1,6 @@
+fact: function integer (n: integer) {
+            continue;
+            return;
+            break;
+            foo(return;);
+            }

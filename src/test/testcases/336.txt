@@ -1,0 +1,1 @@
+name, _5_d :array[2]of float = true<(false>5), 5_6;

@@ -1,0 +1,3 @@
+x: integer;
+                y: float;
+                y: string = {"11", "a", "array"::"string"};

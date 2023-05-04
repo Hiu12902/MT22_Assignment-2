@@ -1,0 +1,8 @@
+fact: function integer (n: integer) {
+            for (x != 3, x + a + 1_2.3-e4, x == y) { 
+                boobby: float = cleopatra("a", e34);
+            }
+        }
+        inc: function void(out n: integer, delta: integer) {
+            n = n + delta;
+        }

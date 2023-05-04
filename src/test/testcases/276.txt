@@ -1,0 +1,10 @@
+
+        main: function void (x: integer, a_123: string) {
+            {
+                {
+                    a[1+foo(2)] = 5 + 3 + 2 * 2 + (abs(9_1) && abs(10.2, array[572, boo(199)]));
+                    }
+                }
+            }
+        }
+        

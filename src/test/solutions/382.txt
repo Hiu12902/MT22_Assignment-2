@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, FloatType, [OutParam(_x, AutoType)], tom, BlockStmt([VarDecl(res, StringType, StringLit()), AssignStmt(ArrayCell(res, [BinExpr(+, FloatLit(30.0), FuncCall(fact, [IntegerLit(7)]))]), BinExpr(+, ArrayCell(x, [ArrayCell(y, [BinExpr(%, IntegerLit(8), Id(floor))])]), IntegerLit(4))), AssignStmt(ArrayCell(res, [IntegerLit(123)]), ArrayLit([IntegerLit(1), IntegerLit(2), ArrayLit([IntegerLit(1), IntegerLit(2)])])), CallStmt(main, ), ReturnStmt()]))
+])

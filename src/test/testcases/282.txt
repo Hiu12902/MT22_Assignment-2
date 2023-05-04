@@ -1,0 +1,9 @@
+fact: function integer (n: integer) {
+            {
+                r,s: integer = 1,2,3,4,5,foo("y");
+                r = 2.0;
+                a,b: array [5] of integer;
+                s = r * r * a;
+                a[0] = s;
+            }
+            }

@@ -1,0 +1,13 @@
+- kiểm tra danh sách nhiều khai báo biến, khai báo hàm
+- khai báo nhiều biến = nhiều expr (custom expr)
+- kiểm tra khai báo biến các loại Type khác nhau có cả array_typ
+- kiểm tra khai báo biến/hàm void và auto type
+- arr_type (và kiểm tra intlist)
+- Kiểm tra việc gán ID (chỉ sử dụng Id(...) trong scalar variable)
+- kiểm tra danh sách expr rỗng
+- gọi hàm, indexed array (ArrayLit), call statement
+- kiểm tra các statement
+- kiểm tra các literals (INTLIT, STRINGLIT, FLOATLIT)
+- kiểm tra ID trong expr
+- kiểm tra các TH chỉnh sửa parser trong parser (không phải trong utils)
+- statelist trong for

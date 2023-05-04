@@ -1,0 +1,4 @@
+x: integer;
+                y: float;
+                y: string = "123";
+            

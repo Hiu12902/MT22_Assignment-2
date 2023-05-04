@@ -1,0 +1,1 @@
+a12_d7 : array[3_6.e-4,10_2] of string = {};
